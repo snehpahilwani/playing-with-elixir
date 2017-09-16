@@ -1,0 +1,1 @@
+IO.puts HelloWorld.hello("foo")
